@@ -1,7 +1,4 @@
 //  CITS2002 Project 1 2021
-//  Name(s):             Jakob Kuriata
-//  Student number(s):   23278189
-
 //  compile with:  cc -std=c11 -Wall -Werror -o runcool runcool.c
 
 #include <stdio.h>
